@@ -1,6 +1,6 @@
 ### Hi, I'm Bartu 👋
 
-Full-stack software engineer in İzmir, Turkey, with five years of production experience in **C#/.NET and Angular**. I work on manufacturing systems at Hugo Boss: production planning and scheduling, real-time shop-floor tracking, and the ERP behind them.
+Full-stack software engineer in Izmir, Turkey, with five years of production experience in **C#/.NET and Angular**. I work on manufacturing systems at Hugo Boss: production planning and scheduling, real-time shop-floor tracking, and the ERP behind them.
 
 I like the problems where the business rules are the hard part: stock that must never go negative, plans that have to respect machine capacity, data that has to stay correct when two people press the button at the same time.
 
